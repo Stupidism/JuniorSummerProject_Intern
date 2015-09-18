@@ -1,14 +1,14 @@
 {{content}}:content is injected
 ((content)):content that real matters
 
-Usage: ./bin/bcgtool.sh [-e|-d|-n] [-i|-p|-v] [-a]
--e indicates the directory of the output file
--d indicates the directory of the filter file
--n indicates the subnet
--i indicates the directory of the input file
--p indicates the plan name of the config
--v indicates version
--a indicates activating the plan name
+    Usage: ./bin/bcgtool.sh [-e|-d|-n] [-i|-p|-v] [-a]
+    -e indicates the directory of the output file
+    -d indicates the directory of the filter file
+    -n indicates the subnet
+    -i indicates the directory of the input file
+    -p indicates the plan name of the config
+    -v indicates version
+    -a indicates activating the plan name
 
 
 Use Case1: Report
